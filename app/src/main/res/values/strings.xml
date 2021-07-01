@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JacocoProject</string>
+    <string name="title">Testando Circle CI!</string>
+    <string name="description">Go to button</string>
 </resources>
